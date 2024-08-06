@@ -875,7 +875,7 @@
       }
     },
     {
-      "input": "Kui palju on ninasõõrmeid inimesel?",
+      "input": "Kui palju ninasõõrmeid on inimesel?",
       "target_scores": {
         "kaks": 1,
         "neli": 0,
