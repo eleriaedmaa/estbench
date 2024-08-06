@@ -14,10 +14,10 @@
     ],
     "append_choices_to_input": false,
     "preferred_score": "multiple_choice_grade",
-    "task_prefix": "Q: Tell me how an apple and a banana are alike. \nA: Both are fruit.\n",
+    "task_prefix": "Q: Ütle mulle, mis on sarnast õunal ja banaanil. \nA: Mõlemad on puuviljad.\n",
     "examples": [
         {
-            "sisend": "Ütle mulle, kuidas on sarnased käekell ja digitaalne termomeeter.",
+            "sisend": "Ütle mulle, mis on sarnast käekellal ja digitaalsel termomeetril.",
             "target_scores": {
                 "Mõlemal on numbrid.": 0,
                 "Mõlemad näitavad aega.": 0,
@@ -29,7 +29,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas purjekas ja jalgratas on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast purjekal ja jalgrattal.",
             "target_scores": {
                 "Mõlemal on rattad.": 0,
                 "Mõlemad ujuvad vee peal.": 0,
@@ -41,7 +41,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas arvuti klaviatuur ja videomängu kontroller on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast arvuti klaviatuuril ja videomängu kontrolleril.",
             "target_scores": {
                 "Mõlemal on nupud millel tähed.": 0,
                 "Mõlemad on väga kallid.": 0,
@@ -53,7 +53,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas pluus ja jalgpallisärk on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast pluusil ja jalgpallisärgil.",
             "target_scores": {
                 "Mõlemad on tehtud puuvillast.": 0,
                 "Mõlemad on kokku õmmeldud.": 0,
@@ -65,7 +65,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas koer ja viirpapagoi on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast koeral ja viirpapagoil.",
             "target_scores": {
                 "Mõlemal on kaks silma.": 0,
                 "Mõlemal on neli jalga.": 0,
@@ -77,7 +77,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas mõõk ja käsirelv on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast mõõgal ja käsirelval.",
             "target_scores": {
                 "Mõlemad tulistavad kuule.": 0,
                 "Mõlemad on metallist ja läikivad.": 0,
@@ -89,7 +89,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas viiul ja fagott on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast viiulil ja fagotil.",
             "target_scores": {
                 "Mõlemad on puidust.": 0,
                 "Mõlemad on metallist.": 0,
@@ -101,7 +101,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas ajaleht ja kohalikud hommikuuudised on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast ajalehel ja kohalikel hommikuuudistel.",
             "target_scores": {
                 "Mõlemad on trükitud paberile.": 0,
                 "Mõlemad on telekas.": 0,
@@ -113,7 +113,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas kõrv ja silm on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast kõrval ja silmal.",
             "target_scores": {
                 "Mõlemad on ümara kujuga.": 0,
                 "Mõlemad on paaris objektid.": 0,
@@ -126,7 +126,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas maal ja limerik on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast maalil ja limerikul.",
             "target_scores": {
                 "Mõlemal on riimuvad read.": 0,
                 "Mõlemad on raamitud.": 0,
@@ -139,7 +139,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas stopper ja liivakell on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast stopperil ja liivakellal.",
             "target_scores": {
                 "Mõlemad on ümmargused.": 0,
                 "Mõlemal on numbrid peal.": 0,
@@ -151,7 +151,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas rock'n'roll ja räpp on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast rock'n'rollil ja räpil.",
             "target_scores": {
                 "Mõlemad algavad tähega R.": 0,
                 "Mõlemad algavad sama tähega.": 0,
@@ -163,7 +163,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas George Washington ja Abraham Lincoln on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast George Washingtonil ja Abraham Lincolnil.",
             "target_scores": {
                 "Mõlemad on surnud.": 0,
                 "Mõlemad olid mehed.": 0,
@@ -175,7 +175,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas pastakas ja kirjutusmasin on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast pastakal ja kirjutusmasinal.",
             "target_scores": {
                 "Mõlemal on tint sees.": 0,
                 "Mõlemad on metallist.": 0,
@@ -187,7 +187,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas romaan ja entsüklopeedia on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast romaanil ja entsüklopeedial.",
             "target_scores": {
                 "Mõlemal on numbritega leheküljed.": 0,
                 "Mõlemad on paberist.": 0,
@@ -199,7 +199,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas nuga ja supilusikas on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast noal ja supilusikal.",
             "target_scores": {
                 "Mõlemad on metallist.": 0,
                 "Mõlemad on läikivad.": 0,
@@ -211,7 +211,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas aku ja pistikupesa on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast akul ja pistikupesal.",
             "target_scores": {
                 "Mõlemad on ümmargused.": 0,
                 "Mõlemal on kaitsekate.": 0,
@@ -223,7 +223,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas algkool ja ülikool on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast algkoolil ja ülikoolil.",
             "target_scores": {
                 "Mõlemad on hooned.": 0,
                 "Mõlemas on inimesed sees.": 0,
@@ -235,7 +235,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas kino ja keeglisaal on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast kinol ja keeglisaalil.",
             "target_scores": {
                 "Mõlemad küsivad sisenemistasu.": 0,
                 "Mõlemad asuvad hoonetes.": 0,
@@ -247,7 +247,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas korter ja maja on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast korteril ja majal.",
             "target_scores": {
                 "Mõlemad saab jagada tubadeks.": 0,
                 "Mõlemal on seinad, mis eraldavad ruume.": 0,
@@ -259,7 +259,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas juhiload ja pass on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast juhilubadel ja passil.",
             "target_scores": {
                 "Mõlemad on kaardikujulised.": 0,
                 "Mõlemad on paberist.": 0,
@@ -273,7 +273,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas stereo kõrvaklapid ja kõlar on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast stereo kõrvaklappdel ja kõlaril.",
             "target_scores": {
                 "Mõlemad on ümmargused.": 0,
                 "Mõlemaid saab kanda peas.": 0,
@@ -285,7 +285,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas pesapallikurikas ja hokikepp on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast pesapallikurikal ja hokikepil.",
             "target_scores": {
                 "Mõlemad on puidust esemed.": 0,
                 "Mõlemad võivad olla metallist.": 0,
@@ -297,7 +297,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas korvpall ja jalgpall on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast korvpallil ja jalgpallil.",
             "target_scores": {
                 "Mõlemad on ümmargused pallid.": 0,
                 "Mõlemad käivad läbi õhu.": 0,
@@ -309,7 +309,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas toored spagetid ja pitsatainas on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast toorestel spagettidel ja pitsataignal.",
             "target_scores": {
                 "Mõlemad on valged ained.": 0,
                 "Mõlemad ostetakse poest.": 0,
@@ -318,11 +318,11 @@
                 "Mõlemad küpsetatakse enne söömist.": 1
             },
             "eesmärk": [
-                "Mõlemad küpsetatakse enne söömist."
+                "Mõlemaid küpsetatakse enne söömist."
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas tekk ja labakindad on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast tekil ja labakinnastel.",
             "target_scores": {
                 "Mõlemad on pehmed katsuda.": 0,
                 "Mõlemad on puuvillased.": 0,
@@ -334,7 +334,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas ämber ja kohvitass on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast ämbril ja kohvitassil.",
             "target_scores": {
                 "Mõlemas on augud.": 0,
                 "Mõlemal on käepidemed.": 0,
@@ -347,7 +347,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas muruniiduk ja käru on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast muruniidukul ja kärul.",
             "target_scores": {
                 "Mõlemal on rattad.": 0,
                 "Mõlemad on metallist.": 0,
@@ -359,7 +359,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas kiirmaantee ja raudtee on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast kiirteel ja raudteel.",
             "target_scores": {
                 "Mõlemad on pikad ja sirged.": 0,
                 "Mõlemad on tehtud väiksematest tükkidest.": 0,
@@ -371,7 +371,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas naelad ja kruvid on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast naeltek ja kruvidel.",
             "target_scores": {
                 "Mõlemail on tipp.": 0,
                 "Mõlemad on teravad.": 0,
@@ -385,7 +385,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas turvavööd ja turvapadjad on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast turvavöödel ja turvapatjadel.",
             "target_scores": {
                 "Mõlemad on enne aktiveerimist lamedad.": 0,
                 "Mõlemad venivad ühes suunas.": 0,
@@ -397,7 +397,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas diivan ja baaritool on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast diivanil ja baaritoolil.",
             "target_scores": {
                 "Mõlemad on väga pehmed.": 0,
                 "Mõlemad on väga kõvad.": 0,
@@ -409,7 +409,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas puu ja põõsas on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast puul ja põõsal.",
             "target_scores": {
                 "Mõlemad on rohelist värvi.": 0,
                 "Mõlemal on rohelised lehed.": 0,
@@ -421,7 +421,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas müts ja kapuuts on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast mütsil ja kapuutsil.",
             "target_scores": {
                 "Mõlemad on punast värvi.": 0,
                 "Mõlemad on kootud villast.": 0,
@@ -433,7 +433,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas Kuu ja Jupiter on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast Kuul ja Jupiteril.",
             "target_scores": {
                 "Mõlemad liiguvad orbiidil.": 0,
                 "Mõlemad on sama värvi.": 0,
@@ -445,7 +445,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas võrdkülgne kolmnurk ja rööpkülik on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast võrdkülgsel kolmnurgal ja rööpkülikul.",
             "target_scores": {
                 "Mõlemal on sama arv külgi.": 0,
                 "Mõlemal on punktid ja servad.": 0,
@@ -457,7 +457,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas naeris ja kartul on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast naeril ja kartulil.",
             "target_scores": {
                 "Mõlemad kasvavad mullas.": 0,
                 "Mõlemad on valget värvi.": 0,
@@ -469,7 +469,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas kriket ja ragbi on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast kriketil ja ragbil.",
             "target_scores": {
                 "Mõlemad toimuvad väljakul.": 0,
                 "Mõlemas on inimeste võistkonnad.": 0,
@@ -477,11 +477,11 @@
                 "Mõlemad on sport.": 1
             },
             "eesmärk": [
-                "Mõlemad on sport"
+                "Mõlemad on sport."
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas oja ja laguun on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast ojal ja laguunil.",
             "target_scores": {
                 "Mõlemad on sinist värvi.": 0,
                 "Mõlemad on asjad, mida saab juua.": 0,
@@ -493,7 +493,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas Houndstooth ja ruuduline on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast pepitaruudulisel ja ruudulisel.",
             "target_scores": {
                 "Mõlemad koosnevad joontest.": 0,
                 "Mõlemaid saab kanda rõivastena.": 0,
@@ -505,7 +505,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas piimakokteil ja puuviljamahl on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast piimakokteilil ja puuviljamahlal.",
             "target_scores": {
                 "Mõlemad on valmistatud kannmikseris.": 0,
                 "Mõlemad sisaldavad suhkrut.": 0,
@@ -517,7 +517,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas lennuk ja helikopter on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast lennukil ja helikopteril.",
             "target_scores": {
                 "Mõlemal on mootorid.": 0,
                 "Mõlemal on tiivad.": 0,
@@ -530,7 +530,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas difenhüdramiin ja atseetaminofeen on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast difenhüdramiinil ja atseetaminofeenil.",
             "target_scores": {
                 "Mõlemad on valget värvi.": 0,
                 "Mõlemad tulevad pudelites.": 0,
@@ -542,7 +542,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas teemant ja pärl on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast teemantil ja pärlil.",
             "target_scores": {
                 "Mõlemad on kõvad mineraalid.": 0,
                 "Mõlemad on ümara kujuga.": 0,
@@ -554,7 +554,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas veised ja lambad on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast veistel ja lammastel.",
             "target_scores": {
                 "Mõlemal on neli jalga.": 0,
                 "Mõlemaid rühmitatakse karjadesse.": 0,
@@ -566,7 +566,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas söödakapsas ja peakapsas on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast söödakapsal ja peakapsal.",
             "target_scores": {
                 "Mõlemad on rohelist värvi.": 0,
                 "Mõlemal on varred, juured ja seemned.": 0,
@@ -578,7 +578,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas hambaarst ja jalaarst on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast stomatoloogil ja podoloog.",
             "target_scores": {
                 "Mõlemad on õppeained, mida õpitakse koolis.": 0,
                 "Mõlemail saab panna aega kinni telefoni teel.": 0,
@@ -590,7 +590,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas Quetzalcoatl ja Sleipnir on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast Quetzalcoatlil ja Sleipniril.",
             "target_scores": {
                 "Mõlemad on iidsed loomad.": 0,
                 "Mõlemal on tiivad.": 0,
@@ -602,7 +602,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas võti ja salasõna on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast võtmel ja salasõnal.",
             "target_scores": {
                 "Mõlemad suhestuvad füüsilise lukuga.": 0,
                 "Mõlemad koosnevad tähtedest.": 0,
@@ -614,7 +614,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas Merlot ja Chardonnay on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast Merlot'l ja Chardonnay'l.",
             "target_scores": {
                 "Mõlemad on punast värvi.": 0,
                 "Mõlemaid müüakse pudelites.": 0,
@@ -626,7 +626,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas saar ja järv on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast saarel ja järvel.",
             "target_scores": {
                 "Mõlemad on mageveekogud.": 0,
                 "Mõlemal on palmipuud.": 0,
@@ -638,7 +638,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas Sichuani pipar ja musta oa kaste on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast Sichuani pipral ja musta oa kastmel.",
             "target_scores": {
                 "Mõlemaid hoitakse purgis.": 0,
                 "Mõlemad maitsevad soolaselt.": 0,
@@ -650,7 +650,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas laktoos ja sahharoos on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast laktoosil ja sahharoosil.",
             "target_scores": {
                 "Mõlemad maitsevad magusalt.": 0,
                 "Mõlemaid leidub toidus.": 0,
@@ -662,7 +662,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas Betamax ja HD DVD on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast Betamaxil ja HD DVD-l.",
             "target_scores": {
                 "Mõlemad on plastikust.": 0,
                 "Mõlemad on musta värvi.": 0,
@@ -674,7 +674,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas kuninganna ja piiskop on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast kuningannal ja piiskopil.",
             "target_scores": {
                 "Mõlemad on leitavad malelaual.": 0,
                 "Mõlemad võivad olla kas valged või mustad.": 0,
@@ -687,7 +687,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas hinduism ja islam on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast hinduismil ja islamil.",
             "target_scores": {
                 "Mõlemal on pühakiri.": 0,
                 "Mõlemad vajavad palvetamist.": 0,
@@ -699,7 +699,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas artikkel ja sidesõna on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast artiklil ja sidesõnal.",
             "target_scores": {
                 "Mõlemad on sõnad.": 0,
                 "Mõlemaid võib leida sõnaraamatust.": 0,
@@ -710,8 +710,8 @@
                 "Mõlemad on kõne osad."
             ]
         },
-        {
-            "sisend": "Ütle mulle, kuidas saguaro kaktus ja viigikaktus on sarnased.",
+		{
+            "sisend": "Ütle mulle, mis on sarnast saguaaro-karneegiakaktusel ja viigikaktusel.",
             "target_scores": {
                 "Mõlemal on teravad astlad.": 0,
                 "Mõlemad kasvavad nagu puud.": 0,
@@ -724,7 +724,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas poolpidulik ja must lips on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast poolpidulikul ja mustal lipsul.",
             "target_scores": {
                 "Mõlemas on tumedad ülikonnad.": 0,
                 "Mõlemaid võib kanda pulmas.": 0,
@@ -736,7 +736,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas 'relish' ja majonees on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast relishil ja majonees.",
             "target_scores": {
                 "Mõlemad tulevad pakkides.": 0,
                 "Mõlemaid võib leida võileivalt.": 0,
@@ -748,7 +748,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas sammas ja tala on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast sambal ja talal.",
             "target_scores": {
                 "Mõlemad on pikad.": 0,
                 "Mõlemad on sirged.": 0,
@@ -762,7 +762,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas küürimisnuustik ja liivapaber on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast küürimisnuustikul ja liivapaberil.",
             "target_scores": {
                 "Mõlemad on karedad.": 0,
                 "Mõlemad on teravad.": 0,
@@ -774,7 +774,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas mannekeen ja kingapuu on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast mannekeenil ja kingapuul.",
             "target_scores": {
                 "Mõlemad näevad välja nagu inimene.": 0,
                 "Mõlemad meenutavad inimest.": 0,
@@ -786,7 +786,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas karikakrad ja roosid on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast karikakardel ja roosidel.",
             "target_scores": {
                 "Mõlemal on mitu kroonlehte.": 0,
                 "Mõlemal on pikad varred.": 0,
@@ -798,7 +798,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas puukingad ja oksfordid on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast puukingadel ja oksfordidel.",
             "target_scores": {
                 "Mõlemad on puidust tehtud.": 0,
                 "Mõlemad on nahast tehtud.": 0,
@@ -810,7 +810,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas mikrolaineahi ja nõudepesumasin on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast mikrolaineahjul ja nõudepesumasinal.",
             "target_scores": {
                 "Mõlemaid kasutatakse toidu soojendamiseks.": 0,
                 "Mõlemaid kasutatakse asjade puhastamiseks.": 0,
@@ -822,7 +822,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas hapukapsas ja kimchi on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast hapukapsal ja kimchil.",
             "target_scores": {
                 "Mõlemad on tehtud kapsast.": 0,
                 "Mõlemaid süüakse kõrvalroana.": 0,
@@ -834,7 +834,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas sedaan ja kupee on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast sedaanil ja kupeel.",
             "target_scores": {
                 "Mõlemaid kasutatakse teedel.": 0,
                 "Mõlemal on neli ratast.": 0,
@@ -846,7 +846,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas Denali ja Fuji mägi on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast Denalil ja Fujil.",
             "target_scores": {
                 "Mõlemad on lumega kaetud.": 0,
                 "Mõlemad asuvad saartel.": 0,
@@ -858,7 +858,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas naeratus ja naer on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast naeratusel ja naerul.",
             "target_scores": {
                 "Mõlemad on seotud näoga.": 0,
                 "Mõlemad kasutavad suud.": 0,
@@ -870,7 +870,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas makroon ja šokolaaditort on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast makroonil ja šokolaaditordil.",
             "target_scores": {
                 "Mõlemad maitsevad magusalt.": 0,
                 "Mõlemal on kihid.": 0,
@@ -882,7 +882,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas lumetorm ja tornaado on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast lumetormil ja tornaadol.",
             "target_scores": {
                 "Mõlemal on tugevad tuuled.": 0,
                 "Mõlemaga kaasnevad sademed.": 0,
@@ -894,7 +894,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas sent ja toonie on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast sendil ja toonie'l.",
             "target_scores": {
                 "Mõlemad on läikivad.": 0,
                 "Mõlemad on ümmargused.": 0,
@@ -906,7 +906,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas Giza suur püramiid ja Aleksandria tuletorn on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast Giza suurel püramiidil ja Aleksandria tuletornil.",
             "target_scores": {
                 "Mõlemad on pikad.": 0,
                 "Mõlemad on hooned.": 0,
@@ -918,7 +918,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas vadi ja impaktkraater on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast vadil ja impaktkraatril.",
             "target_scores": {
                 "Mõlemad on kivist.": 0,
                 "Mõlemad on veega täidetud.": 0,
@@ -930,7 +930,7 @@
             ]
         },
         {
-            "sisend": "Ütle mulle, kuidas paar kaitseprille ja kiiver on sarnased.",
+            "sisend": "Ütle mulle, mis on sarnast paar kaitseprillidel ja kiivril.",
             "target_scores": {
                 "Mõlemaid kantakse peas.": 0,
                 "Mõlemad on plastikust.": 0,
